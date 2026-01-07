@@ -34,6 +34,8 @@
 .section-heading{
     max-width: 827px;
     text-align: center;
+    margin: 0 auto;
+
 }
 
 .section-heading h2{
@@ -143,4 +145,14 @@ nav .menu a{
 
 .about-info .info-card h4{
     font-size: 16px;
+}
+
+#skills{
+    padding-top: 130px;
+}
+
+#skills .skill-container{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
 }
